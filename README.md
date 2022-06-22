@@ -5,7 +5,7 @@
 
 ![](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Frame_poster.png)
 
-ML Bootcamp is an interactive workshop, in which participants will learn about content based filtering, collaborative filtering design a recommendation system from scratch learn how to make these above models accessible by using Flask Framework and host the API on Microsoft Azure
+ML Bootcamp is an interactive workshop, in which participants will learn about content based filtering, collaborative filtering, will design a recommendation system from scratch, learn how to make these above models accessible by using Flask Framework and host the API on Microsoft Azure
 
 ## Slides
 The following resources consist of the slides taught in the respective sessions:
