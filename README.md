@@ -7,9 +7,9 @@ ML Bootcamp is an interactive workshop, in which participants will learn about c
 ## Slides
 The following resources consist of the slides taught in the respective sessions:
 
--[Session 1]("https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/ML_Bootcamp_final.pptx")
+-[Session 1](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/ML_Bootcamp_final.pptx)
 
--[Speaker Session]("https://www.youtube.com/watch?v=m42QcqKBD8M&t=897s")
+-[Speaker Session](https://www.youtube.com/watch?v=m42QcqKBD8M&t=897s)
 
 ## Resources
 
@@ -22,4 +22,4 @@ The following resources consist of the slides taught in the respective sessions:
 |app.py           |[Link to repo](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/app.py)                         |
 |final_code       |[Link to repo](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/movierecfinal.py)               |
 
-<center>With ❤️ by [ISTE-VIT](https://istevit.in/)</center>
+With ❤️ by [ISTE-VIT](https://istevit.in/)
