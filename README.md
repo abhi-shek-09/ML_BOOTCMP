@@ -48,25 +48,6 @@ The following resources consist of the slides taught in the respective sessions:
 <span><b><center>Link to the folder</center></b></span>
 </td>
 </tr>
-
-<tr>
-<td align="center" >
-<span><center>Camera Timer</center></span>
-</td>
-
-<td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Camera_timer">Link to the Repo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><center>Cartoonify</center></span>
-</td>
-<td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/cartoonify">Link to the Repo</a>
-</td>
-</tr>
   
 <tr>
 <td align="center">
@@ -79,69 +60,62 @@ The following resources consist of the slides taught in the respective sessions:
   
 <tr>
 <td align="center">
-<span><center>Capstone</center></span>
+<span><center>tmdb_5000_movies</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Capstone">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/tmdb_5000_movies.csv">Link to the Repo</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<span><center> Difference in Images</center></span>
+<span><center> tmdb_5000_credits </center></span>
 </td>
 <td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Find%20Difference%20in%20Images">Link to the Repo</a>
+<a href="https://drive.google.com/file/d/1bDL_4-X1EPiiZ0M-SLqQ0_bbiXQvfiah/view?usp=sharing">Link to the Repo</a>
 </td>
 </tr>
   
 <tr>
 <td align="center">
-<span><center>Face Detection</center></span>
+<span><center>requirements</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Face%20Detection">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/requirements.txt">Link to the Repo</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<span><center>Face Recognition</center></span>
+<span><center>procfile</center></span>
 </td>
 <td align="center">
 
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Face%20Recognition">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Procfile">Link to the Repo</a>
 </td>
 </tr>
   
 <tr>
 <td align="center">
-<span><center> Mask detection</center></span>
+<span><center> app.py</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Mask%20Detection">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/app.py">Link to the Repo</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<span><center> Python Automation</center></span>
+<span><center> final_code</center></span>
 </td>
 <td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Python%20Automation">Link to the Repo</a>
+<a href="https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/movierecfinal.py">Link to the Repo</a>
 </td>
 </tr>
 </tbody>
 </table>
 
 
-|File             |Link|
-|-----------------|----|
-|tmdb_5000_movies |[Link to repo](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/tmdb_5000_movies.csv)           |
-|tmdb_5000_credits|[Link to repo](https://drive.google.com/file/d/1bDL_4-X1EPiiZ0M-SLqQ0_bbiXQvfiah/view?usp=sharing)  |
-|requirements     |[Link to repo](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/requirements.txt)               |
-|procfile         |[Link to repo](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Procfile)                       |
-|app.py           |[Link to repo](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/app.py)                         |
-|final_code       |[Link to repo](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/movierecfinal.py)               |
+
 
 With ❤️ by [ISTE-VIT](https://istevit.in/)
