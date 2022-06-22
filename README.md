@@ -6,7 +6,7 @@ ML Bootcamp is an interactive workshop, in which participants will learn about c
 ## Slides
 The following resources consist of the slides taught in the respective sessions:
 
--[Session 1]("https://docs.google.com/presentation/d/1q8GQWMEZ7uWtW607B7OONF7CC0UqR8J-/edit?usp=sharing&ouid=100203929886738879540&rtpof=true&sd=true")
+-[Session 1]("https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/ML_Bootcamp_final.pptx")
 
 -[Speaker Session]("https://www.youtube.com/watch?v=m42QcqKBD8M&t=897s")
 
@@ -14,11 +14,11 @@ The following resources consist of the slides taught in the respective sessions:
 
 |File             |Link|
 |-----------------|----|
-|tmdb_5000_movies |[Link to repo]("https://drive.google.com/file/d/14lssNDqhczEyGYG1PlAd1QvXs07txbFz/view?usp=sharing")  |
+|tmdb_5000_movies |[Link to repo]("https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/tmdb_5000_movies.csv")           |
 |tmdb_5000_credits|[Link to repo]("https://drive.google.com/file/d/1bDL_4-X1EPiiZ0M-SLqQ0_bbiXQvfiah/view?usp=sharing")  |
-|requirements     |[Link to repo]("https://drive.google.com/file/d/13_9YpQBSSCRhPpeSjafS2NHHnGdT-N6R/view?usp=sharing")  |
-|procfile         |[Link to repo]("https://drive.google.com/file/d/1-eha55ghlqa0G-I_SsD16aVCe_d4Jj3A/view?usp=sharing")  |
-|app.py           |[Link to repo]("https://drive.google.com/file/d/1LkB_IclylXKDTNMEdYnnNORNMFXRvatr/view?usp=sharing")  |
-|final_code       |[Link to repo]("https://drive.google.com/file/d/1Qe8PlysDKZqyZdq0-61MH9VC0Ej_6_7r/view?usp=sharing")  |
+|requirements     |[Link to repo]("https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/requirements.txt")               |
+|procfile         |[Link to repo]("https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Procfile")                       |
+|app.py           |[Link to repo]("https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/app.py")                         |
+|final_code       |[Link to repo]("https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/movierecfinal.py")               |
 
                         With ❤️ by [ISTE-VIT]("https://istevit.in/")
