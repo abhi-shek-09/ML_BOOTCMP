@@ -1,5 +1,7 @@
-# ML_BOOTCAMP
-![](https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png)
+<h1 align="center"> ML BOOTCAMP 🧑‍💻</h1>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" > <br> 
+</p>
 ![](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Frame_poster.png)
 
 ML Bootcamp is an interactive workshop, in which participants will learn about content based filtering, collaborative filtering design a recommendation system from scratch learn how to make these above models accessible by using Flask Framework and host the API on Microsoft Azure
@@ -11,30 +13,7 @@ The following resources consist of the slides taught in the respective sessions:
 
 -[Speaker Session](https://www.youtube.com/watch?v=m42QcqKBD8M&t=897s)
 
-## Resources
-<!-- <table align="center">
-<tbody>
-	
-<tr>		
-
-<td align="center">
-<a href="https://docs.google.com/presentation/d/14M40TtkifazEyAACvKdSq-cY0D_KIH61l-bY4b2PGBI/edit#slide=id.gfc64569471_0_213">Session 1</a>
-</td>
-	
-</tr>
- 
-<tr>
-
-
-<td align="center">
-<a href="https://docs.google.com/presentation/d/1VVkBe9NaExBnfDRXCtxNSz-R7BQznv47_CwD5wP7HzY/edit#slide=id.g10295189b13_0_11">Session 2</a>
-</td>
-	
-</tr>
-	
-</tbody>
-</table> -->
-	
+## Resources	
 
 <table align="center">
 <tbody>
