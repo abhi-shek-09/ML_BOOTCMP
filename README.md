@@ -2,6 +2,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71590944/111881788-33353b80-89d8-11eb-9db1-746eba087b05.png" > <br> 
 </p>
+
 ![](https://github.com/abhi-shek-09/ML_BOOTCMP/blob/main/Frame_poster.png)
 
 ML Bootcamp is an interactive workshop, in which participants will learn about content based filtering, collaborative filtering design a recommendation system from scratch learn how to make these above models accessible by using Flask Framework and host the API on Microsoft Azure
@@ -25,15 +26,6 @@ The following resources consist of the slides taught in the respective sessions:
 
 <td align="center">
 <span><b><center>Link to the folder</center></b></span>
-</td>
-</tr>
-  
-<tr>
-<td align="center">
-<span><center> Colour Recognition and Masking</center></span>
-</td>
-<td align="center">
-<a href="https://github.com/ISTE-VIT/Sixth-Sense/tree/main/Colour%20Recognition%20and%20Masking">Link to the Repo</a>
 </td>
 </tr>
   
